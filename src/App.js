@@ -1,9 +1,10 @@
 import './App.css';
+import UseEffect from './video9/UseEffect';
 
 function App() {
   return (
     <div>
-      Hello
+      <UseEffect />
     </div>
   );
 }
