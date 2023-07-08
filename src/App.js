@@ -1,5 +1,5 @@
 import './App.css';
-import UseEffect from './video9/UseEffect';
+import UseEffect from './tutorials/video9/UseEffect';
 
 function App() {
   return (
